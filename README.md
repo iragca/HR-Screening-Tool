@@ -10,7 +10,7 @@ Requirements: Python, Streamlit
 
 1. Download this repository as ZIP
 2. Extract the ZIP into a folder.
-3. Open your terminal and run the following command with the working directory as the extract folder.
+3. Open your terminal and run the following command with the working directory the same as the extract folder.
 
 ```bash
 pip install -r requirements.txt
