@@ -16,7 +16,7 @@ Requirements: Python, Streamlit
 pip install -r requirements.txt
 ```
 4. Wait for the installation of dependencies to complete.
-5. Make an `.env` file and write the corresponding needed API keys. Replace the placeholders `<key>` (inclusive). For example:
+5. Make an `.env` file and write the corresponding needed API keys. Replace the placeholders (inclusive). For example:
 
 ```env
 OPENAI_API_KEY = <OpenAI API key>
@@ -44,7 +44,7 @@ You can either use my space as is and just skip to **Step 2**.
 
 ![](https://github.com/iragca/HR-Screening-Tool/blob/main/docs/brave_jKUWhHLjcF.png?raw=true)
 
-3. Set your API keys ('OPENAI_API_KEY', 'PINECONE_API_KEY') with their value by replacing the `<placeholder>' (inclusive.)
+3. Set your API keys ('OPENAI_API_KEY', 'PINECONE_API_KEY') with their value by replacing the placeholders (inclusive.)
 
 ![](https://github.com/iragca/HR-Screening-Tool/blob/main/docs/brave_nBeqDrwLnQ.png?raw=true)
 
