@@ -1,9 +1,12 @@
 python-dotenv
 pandas
 PyPDF2
-langchain
+reportlab
 tiktoken
+chromadb
+langchain
+langchainhub
+langchain-pinecone
 langchain_community
 langchain-openai
-langchainhub
-chromadb
+streamlit-lottie
